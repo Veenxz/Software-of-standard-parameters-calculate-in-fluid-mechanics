@@ -9,7 +9,7 @@ Environment:Qt Creator 4.8.1 (Enterprise)、Qt 5.12.1 (MSVC 2017 64-bit)\
 The help file was written by Chinese.\
 You can see our calculation in "Source Code" Flie.\
 You can use our calculator by download "V1.0 boxed.zip",click "标准大气参数计算软件.exe" can use our software directly.\
-You can also use "calculate.m" calculat in Matlab.\
+You can also use "calculate.m" calculate in Matlab.\
 The equations for our calculate is available in "equation.pdf".
 
 ## 软件名称\(Software Title)
