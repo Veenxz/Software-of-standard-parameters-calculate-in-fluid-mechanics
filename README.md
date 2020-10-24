@@ -1,11 +1,11 @@
 # Software-of-standard-parameters-calculate-in-fluid-mechanics
 
 <p>Version:
-<a href="" rel="nofollow"><img src="https://img.shields.io/badge/V%201.0.1-Calculater--stable-blue" alt="version 1" data-canonical-src="https://img.shields.io/badge/V%201.0-Calculater--stable-blue" style="max-width:100%;"></a>&ensp;&ensp;&ensp;&ensp;<img src="https://img.shields.io/badge/V1.0.1%20Building-100%25-green"></p>
+<a href="https://github.com/Veenxz/Software-of-standard-parameters-calculate-in-fluid-mechanics/tags" rel="nofollow"><img src="https://img.shields.io/badge/V%201.0.1-Calculater--stable-blue" alt="version 1" data-canonical-src="https://img.shields.io/badge/V%201.0-Calculater--stable-blue" style="max-width:100%;"></a>&ensp;&ensp;&ensp;&ensp;<img src="https://img.shields.io/badge/V1.0.1%20Building-100%25-green"></p>
 
 
 <p>Licence:
-<a href="" rel="nofollow"><img src="https://img.shields.io/badge/Licence-GPL%203.0-green alt="version 1" data-canonical-src="<img src="https://img.shields.io/badge/Licence-GPL%203.0-green" style="max-width:100%;"></a></p>
+<a href="https://www.gnu.org/licenses/gpl-3.0.txt" rel="nofollow"><img src="https://img.shields.io/badge/Licence-GPL%203.0-green alt="version 1" data-canonical-src="<img src="https://img.shields.io/badge/Licence-GPL%203.0-green" style="max-width:100%;"></a></p>
 
 ## File specification 
 Calculater Program was created by Qt.\
